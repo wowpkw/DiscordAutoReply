@@ -17,3 +17,6 @@ pip install colorama
 pip install discord
 pip install socket
 pip install json
+After you've installed all of it, Open config.json.
+You will need to edit these settings.
+(Your auth token in the token feild, your user id in the user id field, your username in the username feild, and you can leave the prefix as it is as it's not really used.)
